@@ -12,14 +12,10 @@
 
 ## Example - Simulation of the uterine contractions causing the feetus expulsion during labor
 
-<img src="https://user-images.githubusercontent.com/95075305/170690954-1ded20fc-a29b-4bcd-ab1e-7e04e87e4af0.png" width="400">
-
-
 - This simulation was performed using ABAQUS/Standard (Implicit)
-
 - The uterus was subjected to an activation curve, which represents the increase of calcium concentration with time.
     - We simulated the uterine contractions with 90 seconds followed by resting stages of 60 seconds
     - The fetal head is expulsed during the 5th uterine contraction
-
 - The maternal pushes were not considered and the only load expulsing the fetus is the uterus contraction
 
+![uterus_compressed](https://user-images.githubusercontent.com/95075305/171604627-b596d673-19e2-4838-98bd-ca1bf1b0f358.gif)
