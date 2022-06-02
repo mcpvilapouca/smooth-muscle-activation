@@ -8,7 +8,7 @@
 
 
 ###### [1] Vila Pouca, M.C.P., Ferreira, J.P.S., Oliveira, D.A. et al. Simulation of the uterine contractions and foetus expulsion using a chemo-mechanical constitutive model. Biomech Model Mechanobiol 18, 829–843 (2019). https://doi.org/10.1007/s10237-019-01117-5
-###### [2] Sharifimajd B, Thore CJ, Stålhand J (2016) Simulating uterine contraction by using an electro-chemo-mechanical model. Biomech Model Mechanobiol 15:497–510. https ://doi.org/10.1007/s10237-015-0703-z
+###### [2] Sharifimajd, B., Thore, CJ. & Stålhand, J. Simulating uterine contraction by using an electro-chemo-mechanical model. Biomech Model Mechanobiol 15, 497–510 (2016). https://doi.org/10.1007/s10237-015-0703-z
 
 ## Example - Simulation of the uterine contractions causing the fetus expulsion during labor
 
